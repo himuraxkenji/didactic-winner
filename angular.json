@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "didactic-winner"
+    }
+  },
+  "defaultProject": "didactic-winner",
+  "cli": {
+    "analytics": false
+  }
 }
